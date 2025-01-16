@@ -20,6 +20,11 @@ As a professional passionate about technology and project management, I focus on
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="10" />
 </div>
 
 ###
