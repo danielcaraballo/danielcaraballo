@@ -1,3 +1,5 @@
+![LinkedIn cover - EN](https://github.com/user-attachments/assets/b08e79c9-c808-46d9-9ee1-dbc1b84c9434)
+
 # Hi there 👋
 ###
 
